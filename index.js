@@ -24,7 +24,21 @@ var mm = null;
 console.log(mm);
 var nn = console.log(nn);
 
-//isNaN 
+//isNaN
 
 var MyNum = 5421325465;
 console.log(isNaN(MyNum));
+
+//assignment operator
+
+var x = 5;
+var y = 5;
+console.log(`x is equal to y : ${x == y}`);
+
+//arithmatic operator
+
+console.log(20 / 5);
+console.log(20 % 5);
+
+//incr/decr operator
+
